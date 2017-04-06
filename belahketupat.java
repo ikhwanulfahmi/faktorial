@@ -26,3 +26,5 @@ class ketupat {
     }
   }
 }
+
+#BERHASIL DI UBAH SESUAI DENGAN SOAL. TERIMA KASIH
